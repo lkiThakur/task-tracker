@@ -1,3 +1,7 @@
+ I really don't like it when i have to make traditional projects like to-do app ; snake game etc.  
+ But this time i've to so that i could follow along a youtube tutorial .
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
