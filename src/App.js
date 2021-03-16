@@ -1,9 +1,10 @@
 import Header from './component/Header'
+import Tasks from './component/Tasks'
 function App() {
-  const name="lakki";
   return (
     <div className="container">
-     <Header title='lakki'/>
+     <Header />
+     <Tasks/>
     </div>
   );
 }
