@@ -1,6 +1,6 @@
- I really don't like it when i have to make traditional projects like to-do app ; snake game etc.  
- But this time i've to so that i could follow along a youtube tutorial .
-
+# Practicing React
+- This repo might not be much useful for open source community.   
+- I made it to play with react
 
 <!-- # Getting Started with Create React App
 
@@ -24,8 +24,6 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
-
-Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
