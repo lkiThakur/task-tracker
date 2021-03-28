@@ -3,7 +3,7 @@ import Tasks from './component/Tasks'
 function App() {
   return (
     <div className="container">
-     <Header />
+     <Header title='React Task-Tracker'/>
      <Tasks/>
     </div>
   );
